@@ -1,6 +1,6 @@
 {
-  "name": "Heroku_v2ray",
-  "description": "DaoChen's v2",
+  "name": "yy语音",
+  "description": "yy",
   "keywords": [
     ""
   ],
@@ -17,7 +17,7 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/daochen6",
+      "value": "/yy666",
       "required": true
     }
   },
